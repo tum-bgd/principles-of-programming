@@ -1,6 +1,6 @@
 # Principles Of Programming
 
-Test repository for PoP students.
+Test repository for PoP students to practice version control.
 
 ## Tasks
 
